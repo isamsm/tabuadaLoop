@@ -1,0 +1,47 @@
+body {
+    padding: 170px;
+}
+
+td {
+    padding: 5px;
+}
+
+.coluna1 {
+    background-color: #8226be;
+}
+
+.coluna2 {
+    background-color: #963ed1;
+}
+
+.coluna3 {
+    background-color: #ab5be0;
+}
+
+.coluna4 {
+    background-color: #b971e9;
+}
+
+.coluna5 {
+    background-color: #c68dec;
+}
+
+.coluna6 {
+    background-color: #b98dec;
+}     
+
+.coluna7 {
+    background-color: #9e8dec;
+}
+
+.coluna8 {
+    background-color: #9482e4;
+}
+
+.coluna9 {
+    background-color: #806cda;
+}
+
+.coluna10 {
+    background-color: #705cc7;
+}
