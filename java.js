@@ -9,7 +9,7 @@ let x = 1
             }
 
             x++
-            <document.write("</tr>")
+            document.write("</tr>")
         } while (x<=10) 
 
         document.write("</table>")
