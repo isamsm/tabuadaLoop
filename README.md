@@ -1,2 +1,7 @@
-# tabuadaLoop
-Projetinho de tabuada em html, js e css usando os loops do, for e while. É definida a variável. Dentro do loop for é definida a variavel y, menor ou igual a 10, e ainda dentro do for é feito o incremento nesta variável. É criada uma classe definindo a coluna de acordo com o número do y, para que assim cada coluna tenha uma cor posteriomente. No document.write é feita a multiplicação. Fora do loop for, no loop do while, é feito o incremento de x enquanto este for menor ou igual a 10. 
+<h1 align="center"> Tabuada loop </h1>
+<h3 align="center"> Projetinho de tabuada em html, js e css usando os loops do, for e while. </h3>
+
+<p align="center">
+  <img height="300" src="https://i.imgur.com/CT4wT28.png">
+</p>
+
